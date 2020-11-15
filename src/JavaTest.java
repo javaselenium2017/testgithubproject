@@ -3,7 +3,7 @@ public class JavaTest {
 
 	public static void main(String[] args) {
 
-System.out.println("Java Selenium is great");
+System.out.println("Automation Testing is easy");
 
 	}
 
